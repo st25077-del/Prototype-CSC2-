@@ -1,9 +1,24 @@
-<!DOCTYPE html>
+!DOCTYPE html>
 <html>
     <header>
 <title>Welcome to Raising The Bar: Redux</title>
     </head>
-   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvD3CQTRmLjqqPRNZZuHzZNWZRnfLlu1avzQ&s" alt="background"
+   <body>
+    <section id="slider-1">
+        <div class="swiper" id="swiper-1">
+             <div class="swiper-wrapper">
+                   <div class="swiper-slide">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvD3CQTRmLjqqPRNZZuHzZNWZRnfLlu1avzQ&s" alt="Display"
+      </div>
+      <div class="swiper-slide">
+    <img src="https://i.ytimg.com/vi/8ZOt8ozsB4Y/maxresdefault.jpg" alt="Display"
+      </div>
+      <div class="swiper-slide">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDeeheBzrNdaruWZ2Ilmzs8x1nP369P-cPYA&s" alt="Display"
+      </div>
+    
+   </section>
+   </body> 
     <body>  
         <h1><strong>Welcome to Raising The Bar: Redux</strong></h1>
         <div id="Introduction"

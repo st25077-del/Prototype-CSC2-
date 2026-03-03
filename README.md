@@ -1,4 +1,4 @@
-!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <header>
 <title>Welcome to Raising The Bar: Redux</title>

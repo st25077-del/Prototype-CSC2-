@@ -17,10 +17,11 @@
         <li>Chapter 1</li>
         <li>Chapter 2</li>
         </ul>
-        <h3><strong>Division 2.1</strong></h3>
+    </body>
+    <body>
+    <h3><strong>Division 2.1</strong></h3>
         <ul>
-        <li  
+        <li>Chapter </li>
         </ul>
-
     </body>
 </html>

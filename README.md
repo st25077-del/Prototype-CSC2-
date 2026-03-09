@@ -25,13 +25,25 @@
                          </div>
    </section> 
     <nav>    
-        <h2><strong>About the mod</strong></h2>
-              <div id="content"></div>
-          <p> A Half-Life 2 mod that reconstructs the game based on the original, darker 2002–2003 "beta" concepts, aiming to create a full, playable experience</p>
-        <h2><strong>Division 1</strong></h2>
-           <h3><strong>Division 2.1</strong></h3>
-              <h4><strong>Division 3</strong></h4>  
-                 <h4><strong>The future of RTBR</strong></h4>
-     </nav>
+        <p>
+            <a href="index.html">About the mod</a>
+        </p>
+        <p>
+            <a href="Division 1.html"> Division 1 (<em> OBSOLETE</em>)</a>
+        </p>
+          <a href ="Division 21.html"> Division 2.1 </a>
+              <a href="Division 3.html"> Division 3</a>
+                 <a href="Future.html"> The future of the mod</a>
+    <div id="Content">
+<h1> Hello :)</h1>
+  <p>
+
+     </p>
+<h2> About the mod </h2>
+     </div>
+     <footer>
+        <p class="centre"> 2025 Raising The Bar: Redux Team</p>
+        </footer>
+      </nav>
     </body>
 </html>

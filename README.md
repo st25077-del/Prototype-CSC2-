@@ -25,15 +25,21 @@
                          </div>
    </section> 
     <nav>    
-        <p>
+         <p>
             <a href="index.html">About the mod</a>
-        </p>
+          </p>
+             <p>
+                <a href="Division 1.html"> Division 1 (<em> OBSOLETE</em>)</a>
+                  </p>
+    <p>
+            <a href ="Division 21.html"> Division 2.1 </a>
+             </p>
         <p>
-            <a href="Division 1.html"> Division 1 (<em> OBSOLETE</em>)</a>
-        </p>
-          <a href ="Division 21.html"> Division 2.1 </a>
-              <a href="Division 3.html"> Division 3</a>
+                <a href="Division 3.html"> Division 3</a>
+                 </p>
+           <p>       
                  <a href="Future.html"> The future of the mod</a>
+                     </p>
     <div id="Content">
 <h1> Hello :)</h1>
   <p>
